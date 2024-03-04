@@ -5,6 +5,11 @@ export default StyleSheet.create({
     color: '#051285'
   },
 
+  errorText: {
+    color: '#FF0000',
+    marginTop: 5,
+  },
+
   signupContainer: {
     marginLeft: 5,
     color: '#051285'
@@ -56,11 +61,15 @@ export default StyleSheet.create({
   },
 
   container: {
-    marginTop: 20,
+    marginTop: 30,
     marginLeft: 40,
     marginRight: 40,
     height: 55,
     borderRadius: 5,
+  },
+
+  fullWidth: {
+    marginTop: 40,
   },
 
   shadowProp: {

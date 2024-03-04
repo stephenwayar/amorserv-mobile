@@ -2,6 +2,9 @@
   "expo": {
     "name": "amorserv-mobile",
     "slug": "amorserv-mobile",
+    "extra": {
+      "apiUrl": "http://localhost:3001"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "",
